@@ -12,14 +12,14 @@ Maybe output a file for every framework regarding the gpu details(?)
 
 To-do
 
- - [.] Basic Tensorflow test (No Training nor inference, Just tensorflow checking for GPU)
- - [.] Basic Tensorflow test with training and inference
+ - [X] Basic Tensorflow test (No Training nor inference, Just tensorflow checking for GPU)
+ - [ ] Basic Tensorflow test with training and inference
 
 ### Pytorch
 
 To-do
- - [.] Basic Pytorch test (No Training nor inference, Just tensorflow checking for GPU)
- - [.] Basic Pytorch test with training and inference
+ - [ ] Basic Pytorch test (No Training nor inference, Just tensorflow checking for GPU)
+ - [ ] Basic Pytorch test with training and inference
 
 ### Additional Frameworks/Runtimes (Same tests as above)
 
