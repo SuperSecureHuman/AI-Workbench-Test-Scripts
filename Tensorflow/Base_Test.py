@@ -1,8 +1,6 @@
 # Check if cuda and cudnn are installed properly in tensorflow
 import tensorflow as tf
 
-# Ignore tensorflow warnings
-import tensorflow as tf
 tf.get_logger().setLevel('INFO')
 
 def check():

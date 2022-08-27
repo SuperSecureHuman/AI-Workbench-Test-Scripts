@@ -4,6 +4,10 @@ Some easy to use python scripts to know if your Deep learning framework is worki
 
 ## Stuff I want in here
 
+Add CUDA, CUDNN, Compute Capability and GPU name in the info.
+
+Maybe output a file for every framework regarding the gpu details(?)
+
 ### Tensorflow
 
 To-do
